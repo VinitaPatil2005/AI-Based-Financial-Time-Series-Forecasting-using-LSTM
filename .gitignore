@@ -1,0 +1,20 @@
+# Dataset
+data/
+
+# Models
+models/
+*.keras
+*.h5
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
